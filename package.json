@@ -1,0 +1,11 @@
+{
+  "name": "music-map",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "arangojs": "^7.5.0",
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^2.6.1"
+  }
+}
